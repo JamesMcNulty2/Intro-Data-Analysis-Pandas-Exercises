@@ -1,6 +1,6 @@
 # Intro-Data-Analysis-Pandas-Exercises
 Notebook http://localhost:8888/notebooks/Intro-Data-Analysis-Pandas-Exercises/Intro-Data-Analysis-Pandas-Exercises.ipynb#
 
-HTML file:///C:/Users/jimmy/Desktop/EconGrowth/EconGrowthUG-Notebooks/Intro-Data-Analysis-Pandas-Exercises/Intro-Data-Analysis-Pandas-Exercises/Intro-Data-Analysis-Pandas-Exercises.html
+HTML http://localhost:8888/notebooks/Intro-Data-Analysis-Pandas-Exercises/Intro-Data-Analysis-Pandas-Exercises.ipynb#
 
-Slides http://localhost:8888/notebooks/Intro-Data-Analysis-Pandas-Exercises/Intro-Data-Analysis-Pandas-Exercises.ipynb#
+Slides file:///C:/Users/jimmy/Downloads/index.html.html
